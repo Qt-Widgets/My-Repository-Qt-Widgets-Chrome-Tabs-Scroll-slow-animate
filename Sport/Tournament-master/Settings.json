@@ -1,0 +1,22 @@
+{
+    "Settings": [
+        {
+            "ActiveMatchBorderColor": "#75e900",
+            "BackgroundColor1": "#024c62",
+            "BackgroundColor2": "#024c62",
+            "BackgroundColor3": "#04627f",
+            "BackgroundColor4": "#0394c0",
+            "BackgroundColor5": "#04627f",
+            "BackgroundColor6": "#024c62",
+            "MatchBackgroundColor": "#696969",
+            "MatchPlayerTextColor": "#000000",
+            "MatchPointsColor": "#c0c0c0",
+            "MatchPointsTextColor": "#000000",
+            "MatchPointsWinnerColor": "#ff8c00",
+            "MatchSeparatorColor": "#ffffff",
+            "RoundsBackgroundColor": "#000000",
+            "RoundsBorder": "#000000",
+            "RoundsLineColor": "#000000"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+debug/main.o
+debug/mainsite.o
+debug/addfiledlg.o
+debug/searchdlg.o
+debug/usemapdlg.o
+debug/previewimagedlg.o
+debug/showfiledlg.o
+debug/mybutton.o
+debug/qrc_icon.o
+debug/moc_mainsite.o
+debug/moc_addfiledlg.o
+debug/moc_searchdlg.o
+debug/moc_usemapdlg.o
+debug/moc_previewimagedlg.o
+debug/moc_showfiledlg.o
+debug/moc_mybutton.o

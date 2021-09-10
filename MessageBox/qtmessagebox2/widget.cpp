@@ -26,7 +26,7 @@ void Widget::on_pushButton_clicked()
 
 void Widget::on_pushButton_2_clicked()
 {
-    QString filename = QFileDialog::getOpenFileName(this,"文件对话框","D:","Images (*.png *.jpg);;code (*.cpp);;header (*.h)");
+    QString filename = QFileDialog::getOpenFileName(this,"文件对话框","D:","Images (*.svg *.png *.jpg);;code (*.cpp);;header (*.h)");
     qDebug()<<"filename:"<<filename;
 }
 
@@ -43,7 +43,7 @@ void Widget::on_pushButton_3_clicked()
 void Widget::on_pushButton_4_clicked()
 {
     bool ok;
-    QString string = QInputDialog::getText(this,tr("字符输入"),tr("输入"),QLineEdit::PasswordEchoOnEdit,"text",&ok);
+    QString string = QInputDialog::getText(this,tr("за"),tr("оп"),QLineEdit::PasswordEchoOnEdit,"text",&ok);
     if(ok)
     {
         qDebug()<<"string"<<string;

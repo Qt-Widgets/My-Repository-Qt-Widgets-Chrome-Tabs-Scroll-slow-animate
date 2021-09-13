@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/framelesswindow.o
+release/windowdragger.o
+release/DarkStyle.o
+release/qrc_darkstyle.o
+release/qrc_framelesswindow.o
+release/moc_mainwindow.o
+release/moc_framelesswindow.o
+release/moc_windowdragger.o
+release/moc_DarkStyle.o

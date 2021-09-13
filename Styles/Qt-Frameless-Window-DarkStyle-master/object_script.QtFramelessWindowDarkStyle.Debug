@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/framelesswindow.o
+debug/windowdragger.o
+debug/DarkStyle.o
+debug/qrc_darkstyle.o
+debug/qrc_framelesswindow.o
+debug/moc_mainwindow.o
+debug/moc_framelesswindow.o
+debug/moc_windowdragger.o
+debug/moc_DarkStyle.o

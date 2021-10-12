@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.15.2, 2021-09-10T16:08:11. -->
+<!-- Written by QtCreator 4.15.2, 2021-10-12T09:33:55. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -91,8 +91,8 @@
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
    <value type="QString" key="DeviceType">Desktop</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Qt 5.15.2 MinGW 64-bit</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Qt 5.15.2 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.15.2 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.15.2 MinGW 64-bit</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5152.win64_mingw81_kit</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
@@ -100,7 +100,7 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="int" key="EnableQmlDebugging">0</value>
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">E:\My-Repository-Qt-Widgets\MessageBox\qtmessagebox2</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/Pilikin/Downloads/MessageBox/qtmessagebox2</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">E:/My-Repository-Qt-Widgets/MessageBox/qtmessagebox2</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -234,12 +234,13 @@
     <value type="QString" key="Analyzer.Perf.CallgraphMode">dwarf</value>
     <valuelist type="QVariantList" key="Analyzer.Perf.Events">
      <value type="QString">cpu-cycles</value>
+     <value type="QString">dummy</value>
     </valuelist>
     <valuelist type="QVariantList" key="Analyzer.Perf.ExtraArguments"/>
     <value type="int" key="Analyzer.Perf.Frequency">250</value>
     <valuelist type="QVariantList" key="Analyzer.Perf.RecordArguments">
      <value type="QString">-e</value>
-     <value type="QString">cpu-cycles</value>
+     <value type="QString">cpu-cycles,dummy</value>
      <value type="QString">--call-graph</value>
      <value type="QString">dwarf,4096</value>
      <value type="QString">-F</value>
@@ -294,9 +295,8 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">untitled2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/My-Repository-Qt-Widgets/MessageBox/qtmessagebox2/untitled.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/My-Repository-Qt-Widgets/MessageBox/qtmessagebox2/untitled.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/My-Repository-Qt-Widgets/Custom Widgets/MessageBoxs/qtmessagebox2/untitled.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/My-Repository-Qt-Widgets/Custom Widgets/MessageBoxs/qtmessagebox2/untitled.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

@@ -2,6 +2,6 @@
 
 QtCustomWizard::QtCustomWizard(QWidget *parent) : QWizard(parent)
 {
-    setWizardStyle(QWizard::ModernStyle);
+    setWizardStyle(QWizard::NStyles);
     setOption(QWizard::NoBackButtonOnStartPage);
 }

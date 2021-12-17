@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QDebug>
-#include "Task.h"
+#include "task.h"
 #include <QInputDialog>
 
 namespace Ui {
